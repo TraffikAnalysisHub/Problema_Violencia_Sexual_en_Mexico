@@ -26,6 +26,11 @@ Los conjuntos de datos fueron los siguientes:
 - "Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública 2019", Obtenidos de [Conjunto de datos ENVIPE 2019](https://www.inegi.org.mx/contenidos/programas/envipe/2019/datosabiertos/conjunto_de_datos_envipe2019_csv.zip).
 
 - Un reto importante es el de expandir la información de tráfico humano, dado la poca atención que se le da por las autoridades se tienen que buscar medidas indirectas de medición lo cual no es lo ideal, teniendo mejores bases de datos y realizando investigaciones más profundas sería posible construir un modelo comprensible de todos los aspectos de la trata de personas.
+## Visualización
+Uno de nuestros productos es el siguiente dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiZTZiODczYjMtOTY3MC00YzEwLWE2YjAtOTUzYmJmZGNmNmFmIiwidCI6IjA3YTgxZjc2LWQwMzEtNGUzOC04YTZmLWQ5MzQ5Y2QwMzI4MSJ9
+
 
 ## Equipo
 
