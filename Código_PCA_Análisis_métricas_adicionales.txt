@@ -1,11 +1,7 @@
 
-An·lisis descriptivo Base de datos usada para el an·lisis.
+An√°lisis descriptivo Base de datos usada para el an√°lisis.
 https://app.powerbi.com/view?r=eyJrIjoiZTZiODczYjMtOTY3MC00YzEwLWE2YjAtOTUzYmJmZGNmNmFmIiwidCI6IjA3YTgxZjc2LWQwMzEtNGUzOC04YTZmLWQ5MzQ5Y2QwMzI4MSJ9
 
-
-Google Colab.
-An·lisis PCA
-https://colab.research.google.com/drive/1_-EwxQWURQj8U6tKzYsGl8DbnipmNReT?usp=sharing
 
 
 
